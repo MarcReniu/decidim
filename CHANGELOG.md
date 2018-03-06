@@ -4,6 +4,7 @@
 
 **Added**:
 
+- **decidim**: Rename features to components [\#2913](https://github.com/decidim/decidim/pull/2913)
 - **decidim-accountability**: Proposal selection from accountability with autoComplete [\#2348](https://github.com/decidim/decidim/pull/2584)
 - **decidim-assemblies**: Make admins auto follow assemblies [\#2855](https://github.com/decidim/decidim/pull/2855)
 - **decidim-participatory_processes**: Make admins auto follow participatory processes [\#2855](https://github.com/decidim/decidim/pull/2855)

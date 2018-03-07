@@ -57,6 +57,7 @@ en:
     admin_log:
       area:
         create: "%{user_name} created the %{resource_name} area"
+        update: "%{user_name} updated the %{resource_name} area"
       feature:
         create: "%{user_name} added the %{resource_name} feature to the %{space_name} space"
         delete: "%{user_name} removed the %{resource_name} feature from the %{space_name} space"

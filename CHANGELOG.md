@@ -69,6 +69,7 @@
 - **decidim-proposals**: Log proposal private notes [\#2907](https://github.com/decidim/decidim/pull/2907)
 - **decidim-meetings**: Log actions on meetings [\#2911](https://github.com/decidim/decidim/pull/2911)
 - **decidim-debates**: Adds announcements to debates [\#2806](https://github.com/decidim/decidim/pull/2806)
+- **decidim-admin**: Log actions on areas [\#2944](https://github.com/decidim/decidim/pull/2944)
 
 **Changed**:
 
